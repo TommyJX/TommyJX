@@ -9,7 +9,7 @@ I like coding!
 * 🌍  I'm based in Malmö
 * 🖥️  See my portfolio at [Currently under construction](http://example)
 * ✉️  You can contact me at [ttommywang@gmail.com](mailto:ttommywang@gmail.com)
-* 🚀  I'm currently working on [My portfolio website](http://github.com/TommyJX/my-portfolio)
+* 🚀  I'm currently working on [NLP_School_Project](https://github.com/TommyJX/NLP_School_Project)
 * 🧠  I'm learning MySQl, JavaScript, HTML, CSS, Python
 * 🤝  I'm open to collaborating on Deepening my understanding of the coding languages i'm learning.
 * ⚡  Lionel Messi is the greatest football player of all time!
