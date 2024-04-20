@@ -10,7 +10,7 @@ I like coding!
 * 🖥️  See my portfolio at [Currently under construction](http://example)
 * ✉️  You can contact me at [ttommywang@gmail.com](mailto:ttommywang@gmail.com)
 * 🚀  I'm currently working on [MysteryIncAuctions](https://github.com/MarcusT96/MysteryIncAuctions)
-* 🧠  I'm learning MySQl, JavaScript, HTML, CSS, Python
+* 🧠  I'm learning MySQl, JavaScript, HTML, CSS, Python, .NET/C#, Testing, Testing with AI
 * 🤝  I'm open to collaborating on Deepening my understanding of the coding languages i'm learning.
 * ⚡  Lionel Messi is the greatest football player of all time!
 
